@@ -55,7 +55,7 @@ This will launch the app in your default web browser at `http://localhost:3000`.
 
 ## Localization Setup
 
-This project uses the `react-i18next` library for localization. You can find the translation files and configuration in the `src/i18n` directory. To add or modify translations, follow these steps:
+This project uses the `react-i18next` library for localization. You can find the translation files and configuration in the `public/assets/locales/` directory. To add or modify translations, follow these steps:
 
 1. Create a new JSON file for the desired language (e.g., `en.json` for English) in the `public/assets/locales/` directory.
 
