@@ -1,4 +1,4 @@
-# React Localization Mini Project
+# React Language Localization Mini Project
 
 This mini project demonstrates how to implement localization in a React app using the `react-i18next` library. The app includes a dropdown menu with different languages, allowing users to switch between them, dynamically changing the text on the website to match the selected language.
 
